@@ -1,6 +1,6 @@
 # Manga chapter text extractor
 
-This series of functions wwre created to extract and clean text from manga images. The exctractor accuracy is around 90%. Although not all information is being extracted, a chat bot such as ChatGPT can make sense of the story, and provide a summary of each chapter and of the whole manga so far. 
+This series of functions were created to extract and clean text from manga images. The extractor accuracy is around 90%. Although not all information is being extracted, a chat bot such as ChatGPT can make sense of the story, and provide a summary of each chapter and of the whole manga so far. 
 
 Here are some business applications that come to mind:
 
